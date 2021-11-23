@@ -1,0 +1,11 @@
+======== Minimo ============
+
+
+fonts-	
+		font-family: 'Playfair Display', serif;
+		font-family: 'Ubuntu', sans-serif;
+
+		color-
+			  black	#000000
+			  ash	#626262
+			  light	#b4ad9e
